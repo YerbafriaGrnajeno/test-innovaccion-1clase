@@ -1,4 +1,4 @@
-# MI REPOSITORIO DE PRUEBA
+# Inteligencia artificial
 
 - Computo en la nube:
 - Inteligencia Artificial:

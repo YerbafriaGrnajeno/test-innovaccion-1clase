@@ -95,3 +95,25 @@ Spotify utilizará la nube de Google para alojar toda su infraestructura de serv
 -Como todos sabemos, se trata de un servicio de música en streaming que aporta una comodísima forma de escuchar tus canciones favoritas, donde quieras y a través de cualquier dispositivo conectado
 
 -Pues bien, ahora Spotify ha decidido alojar toda su infraestructura de servicios, incluyendo su catálogo musical, en la nube de Google.
+
+___
+
+¿QUE ES UN SISTEMA OPERATIVO?
+
+Es un conjunto de programas que permite manejar la memoria, disco, medios de almacenamiento de información y los diferentes periféricos o recursos de nuestra computadora, como son el teclado, el mouse, la impresora, la placa de red, entre otros.
+
+¿QUE ES UN PROCESADOR?
+
+Es el componente más importante de nuestro PC. Su función es la de ser el cerebro de todo el funcionamiento del sistema, siendo el encargado de dirigir todas las tareas que lleva a cabo nuestro equipo.
+
+¿QUE ES EL KERNEL?
+
+Es la parte central de un sistema operativo y es el que se encarga de realizar toda la comunicación segura entre el software y el hardware del ordenador
+
+¿QUE ES GIT?
+
+Es un control de versiones, que se trabaja de nodo local
+
+¿QUE ES GITHUB?
+
+Se trabaja en el servidor

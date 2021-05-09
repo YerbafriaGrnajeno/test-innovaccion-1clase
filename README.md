@@ -2,4 +2,3 @@
 
 - Computo en la nube:
 - Inteligencia Artificial:
-- La nube:

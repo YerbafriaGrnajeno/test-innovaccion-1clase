@@ -1,4 +1,4 @@
 # Inteligencia artificial
 
-- Computo en la nube:
-- Inteligencia Artificial:
+-Computo en la nube:
+-Inteligencia Artificial:
